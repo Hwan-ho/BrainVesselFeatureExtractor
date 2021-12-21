@@ -9,3 +9,5 @@ Manual centerline interval setting
   
 Image loading library unification
   - Simple itk + VMTK image reader --> VMTK image reader
+
+Branch < 1mm delete
