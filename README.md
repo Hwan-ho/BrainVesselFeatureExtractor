@@ -1,4 +1,4 @@
-# BrainVesselFeatureExtractor
+# Brain Vessel Feature Extractor
 
 Brain Vessel Geometrical Feature Calculation pipeline
 
