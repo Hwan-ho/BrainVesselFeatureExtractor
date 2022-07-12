@@ -2,6 +2,8 @@
 
 Brain Vessel Geometrical Feature Calculation pipeline
 
+You can lauch extractor byu executing [BrainVesselFeatureExtractor.v2.3.3.exe]
+
 Made by Hwan-ho Cho, Ph.D.
 
 
