@@ -15,7 +15,7 @@ You can lauch extractor by executing [BrainVesselFeatureExtractor.v2.3.3.exe]
 
 \
 Made by Hwan-ho Cho, Ph.D.
-
+ 
 \
 Collaboarated with Seoul Samsung Medical Center
 
