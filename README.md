@@ -14,9 +14,9 @@ Brain Vessel Geometrical Feature Calculation pipeline
 You can lauch extractor by executing [BrainVesselFeatureExtractor.(version).exe]
 
 \
-Made by Hwan-ho Cho, Ph.D.
-Assistant professor,
-Department of Electronics Engineering, Incheon National University
+Made by Hwan-ho Cho, Ph.D.\
+Assistant professor,\
+Department of Electronics Engineering, Incheon National University\
 Medical Artificial Intelligence LAB.
 \
 Collaboarated with 
