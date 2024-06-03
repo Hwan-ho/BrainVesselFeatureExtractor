@@ -15,9 +15,13 @@ You can lauch extractor by executing [BrainVesselFeatureExtractor.(version).exe]
 
 \
 Made by Hwan-ho Cho, Ph.D.
- 
+Assistant professor,
+Department of Electronics Engineering, Incheon National University
+Medical Artificial Intelligence LAB.
 \
-Collaboarated with Seoul Samsung Medical Center
+Collaboarated with 
+
+Seoul Samsung Medical Center
 
 Medical Image Processing Lab. Sungkyunkwan Univ.
 
