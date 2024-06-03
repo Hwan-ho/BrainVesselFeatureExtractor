@@ -11,7 +11,7 @@ The pipeline for extracting brain vessel features will be made available on GitH
 
 Brain Vessel Geometrical Feature Calculation pipeline
 
-You can lauch extractor by executing [BrainVesselFeatureExtractor.v2.3.3.exe]
+You can lauch extractor by executing [BrainVesselFeatureExtractor.(version).exe]
 
 \
 Made by Hwan-ho Cho, Ph.D.
