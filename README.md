@@ -1,6 +1,6 @@
 *Note.* This repository is for sharing our brain vessel feature extraction pipeline used in 
 
-**'Predicting cerebrovascular age and its clinical relevance: modeling using 3D morphological features of brain vessels'**
+**'Predicting cerebrovascular age and its clinical relevance: modeling using 3D morphological features of brain vessels', (heliyon)**
 
 \
 The pipeline for extracting brain vessel features will be made available on GitHub upon publication and the experimental code will be shared upon request. 
